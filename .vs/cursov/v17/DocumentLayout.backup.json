@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USeR\\source\\repos\\cursov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\sessionedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\sessionedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Achievements.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Achievements.cs",
+              "RelativeDocumentMoniker": "cursov\\Achievements.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Achievements.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\Achievements.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:44:37.201Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timetable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Timetable.cs",
+              "RelativeDocumentMoniker": "cursov\\Timetable.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Timetable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\Timetable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T09:30:16.964Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Form1.cs",
+              "RelativeDocumentMoniker": "cursov\\Form1.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:42:56.693Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs",
+              "RelativeDocumentMoniker": "cursov\\SessionEdit.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:49:15.635Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAchievementEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmAchievementEdit.cs",
+              "RelativeDocumentMoniker": "cursov\\frmAchievementEdit.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmAchievementEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\frmAchievementEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:16:58.811Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Registration.cs",
+              "RelativeDocumentMoniker": "cursov\\Registration.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T09:17:54.905Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
