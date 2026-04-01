@@ -18,13 +18,10 @@ namespace cursov
         public Achievements()
         {
             InitializeComponent();
-            this.scheduleForm = scheduleForm;
-
         }
 
         private void btnBackToTrain_Click(object sender, EventArgs e)
         {
-            scheduleForm.Show();
             this.Close();
         }
 

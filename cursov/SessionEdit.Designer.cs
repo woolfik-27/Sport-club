@@ -79,7 +79,7 @@
             // dtStart
             // 
             this.dtStart.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dtStart.Location = new System.Drawing.Point(437, 164);
+            this.dtStart.Location = new System.Drawing.Point(114, 164);
             this.dtStart.Name = "dtStart";
             this.dtStart.Size = new System.Drawing.Size(200, 22);
             this.dtStart.TabIndex = 4;
@@ -87,7 +87,7 @@
             // dtEnd
             // 
             this.dtEnd.Format = System.Windows.Forms.DateTimePickerFormat.Time;
-            this.dtEnd.Location = new System.Drawing.Point(114, 164);
+            this.dtEnd.Location = new System.Drawing.Point(437, 164);
             this.dtEnd.Name = "dtEnd";
             this.dtEnd.Size = new System.Drawing.Size(200, 22);
             this.dtEnd.TabIndex = 5;

@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static cursov.DbClass;
 
 namespace cursov
 {
@@ -129,5 +130,7 @@ namespace cursov
             Achievements form = new Achievements();
             form.ShowDialog();
         }
+
+        
     }
 }

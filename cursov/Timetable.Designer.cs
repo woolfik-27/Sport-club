@@ -59,7 +59,7 @@
             // btnAddSession
             // 
             this.btnAddSession.BackColor = System.Drawing.Color.Gold;
-            this.btnAddSession.Location = new System.Drawing.Point(12, 386);
+            this.btnAddSession.Location = new System.Drawing.Point(13, 386);
             this.btnAddSession.Name = "btnAddSession";
             this.btnAddSession.Size = new System.Drawing.Size(111, 23);
             this.btnAddSession.TabIndex = 2;

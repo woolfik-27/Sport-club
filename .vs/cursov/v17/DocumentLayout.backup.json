@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USeR\\source\\repos\\cursov\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\sessionedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\achievements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFAD5AC2-9CA4-4407-9DFD-1575199E022E}|cursov\\cursov.csproj|solutionrelative:cursov\\frmachievementedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Achievements.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Achievements.cs",
               "RelativeDocumentMoniker": "cursov\\Achievements.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Timetable.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Timetable.cs",
               "RelativeDocumentMoniker": "cursov\\Timetable.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Form1.cs",
               "RelativeDocumentMoniker": "cursov\\Form1.cs",
@@ -77,20 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs",
-              "RelativeDocumentMoniker": "cursov\\SessionEdit.cs",
-              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T18:49:15.635Z",
-              "IsPinned": true,
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "frmAchievementEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\frmAchievementEdit.cs",
               "RelativeDocumentMoniker": "cursov\\frmAchievementEdit.cs",
@@ -103,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\Registration.cs",
               "RelativeDocumentMoniker": "cursov\\Registration.cs",
@@ -111,6 +98,19 @@
               "RelativeToolTip": "cursov\\Registration.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T09:17:54.905Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs",
+              "RelativeDocumentMoniker": "cursov\\SessionEdit.cs",
+              "ToolTip": "C:\\Users\\USeR\\source\\repos\\cursov\\cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "cursov\\SessionEdit.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:49:15.635Z",
               "IsPinned": true,
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
