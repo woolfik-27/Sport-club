@@ -24,64 +24,49 @@ namespace cursov
             string login = txtLogin.Text.Trim();
             string password = txtPassword.Text.Trim();
 
-            string sql = @"
-                SELECT id, full_name, role
-                FROM users
-                WHERE login = @login AND password_hash = @password
-    ";
-
+            string sqlCheck = "SELECT COUNT(*) FROM users WHERE login = @login AND password_hash = @password";
             try
             {
-                using (MySqlCommand cmd = DbClass.Database.GetCommand(sql))
+                using (MySqlCommand cmdCheck = DbClass.Database.GetCommand(sqlCheck))
                 {
-                    cmd.Parameters.AddWithValue("@login", login);
-                    cmd.Parameters.AddWithValue("@password", password);
+                    cmdCheck.Parameters.AddWithValue("@login", login);
+                    cmdCheck.Parameters.AddWithValue("@password", password);
+                    int count = Convert.ToInt32(cmdCheck.ExecuteScalar());
 
-                    bool success = false;
-
-                    using (var reader = cmd.ExecuteReader())
+                    if (count > 0)
                     {
-                        if (reader.Read())
+                        string sqlUser = "SELECT id, full_name, role FROM users WHERE login = @login AND password_hash = @password";
+                        using (MySqlCommand cmdUser = DbClass.Database.GetCommand(sqlUser))
                         {
-                            CurrentUser.Id = reader.GetInt32("id");
-                            CurrentUser.Name = reader.GetString("full_name");
-                            CurrentUser.Role = reader.GetString("role");
-
-                            success = true;
+                            cmdUser.Parameters.AddWithValue("@login", login);
+                            cmdUser.Parameters.AddWithValue("@password", password);
+                            using (var reader = cmdUser.ExecuteReader())
+                            {
+                                if (reader.Read())
+                                {
+                                    CurrentUser.Id = reader.GetInt32("id");
+                                    CurrentUser.Name = reader.GetString("full_name");
+                                    CurrentUser.Role = reader.GetString("role");
+                                }
+                            }
                         }
-                    }
 
-                    if (success)
-                    {
-                        MessageBox.Show($"Добро пожаловать, {CurrentUser.Name}!");
-
+                        string roleMsg = CurrentUser.Role == "client" ? "клиент" : "тренер";
+                        MessageBox.Show($"Добро пожаловать, {CurrentUser.Name}! Вы вошли как {roleMsg}.");
                         this.Hide();
-                        frmSessionsSchedule schedule = new frmSessionsSchedule();
-                        schedule.Show();
-                    }
-                    else
-                    {
-                        MessageBox.Show("Неверный логин или пароль");
+                        new frmSessionsSchedule().Show();
+                        return;
                     }
                 }
+                MessageBox.Show("Неверный логин или пароль");
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
+            catch (Exception ex) { MessageBox.Show("Ошибка: " + ex.Message); }
         }
 
         private void btnOpenRegistration_Click(object sender, EventArgs e)
         {
-            this.Hide(); 
-
-            Registration registration = new Registration(this);
-            registration.Show();
-        }
-
-        private void Authorization_Load(object sender, EventArgs e)
-        {
-
+            this.Hide();
+            new Registration(this).Show();
         }
     }
 }
